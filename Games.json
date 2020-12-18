@@ -1,0 +1,17 @@
+{
+  "games": [
+    {
+      "title": "Default",
+      "path": "Default",
+      "necessary": "Default",
+      "tool": "Default"
+    },
+    {
+      "title": "Default2",
+      "path": "Default2",
+      "necessary": "Default2",
+      "tool": "Default2"
+    }
+
+  ]
+}
